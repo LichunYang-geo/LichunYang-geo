@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+## About Me
+I'm a third-year Ph.D. candidate in Geophysics at the Southern University of Science and Technology (SUSTech). My research focuses on advancing methodologies for earthquake location determination and focal mechanism inversion, with applications in seismic hazard assessment.
+
+
+
 <!--
 **LichunYang-geo/LichunYang-geo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
